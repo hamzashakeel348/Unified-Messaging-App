@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/connect/page": "app/connect/page.js",
+  "/api/send/route": "app/api/send/route.js",
+  "/inbox/page": "app/inbox/page.js",
+  "/api/unipile/notify/route": "app/api/unipile/notify/route.js",
+  "/api/unipile/auth-link/route": "app/api/unipile/auth-link/route.js",
+  "/api/messages/route": "app/api/messages/route.js",
+  "/api/webhooks/unipile/route": "app/api/webhooks/unipile/route.js"
+}
